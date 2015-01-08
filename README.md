@@ -4,6 +4,7 @@ Under Art+Data-projektet har Love at Work och Creative Nodes gjort ett prototyp-
 
 Detta är kod och kopplingsschema för #artbench 1, och en del av förstudien Art+Data som genomförs av Love at Work AB och Creative Nodes i Luleå
 
+# Läs mer
 www.loveatwork.se
 www.creativenodes.se
 www.artplusdata.se
