@@ -6,5 +6,7 @@ Detta är kod och kopplingsschema för #artbench 1, och en del av förstudien Ar
 
 # Läs mer
 www.loveatwork.se
+
 www.creativenodes.se
+
 www.artplusdata.se
